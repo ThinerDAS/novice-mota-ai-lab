@@ -1,0 +1,372 @@
+Weak search
+Iteration 1 / 62
+state space 1
+Iteration 2 / 62
+state space 7
+Iteration 3 / 62
+state space 26
+Iteration 4 / 62
+state space 70
+Iteration 5 / 62
+state space 154
+Iteration 6 / 62
+state space 300
+Iteration 7 / 62
+state space 551
+Iteration 8 / 62
+state space 1001
+Iteration 9 / 62
+state space 1674
+Iteration 10 / 62
+state space 2508
+Iteration 11 / 62
+state space 3376
+Iteration 12 / 62
+state space 4004
+Iteration 13 / 62
+state space 4079
+Iteration 14 / 62
+state space 3678
+Iteration 15 / 62
+state space 3059
+Iteration 16 / 62
+state space 2438
+Iteration 17 / 62
+state space 1924
+Iteration 18 / 62
+state space 1557
+Iteration 19 / 62
+state space 1452
+Iteration 20 / 62
+state space 1628
+Iteration 21 / 62
+state space 1988
+Iteration 22 / 62
+state space 2491
+Iteration 23 / 62
+state space 3170
+Iteration 24 / 62
+state space 3898
+Iteration 25 / 62
+state space 4415
+Iteration 26 / 62
+state space 4445
+Iteration 27 / 62
+state space 4184
+Iteration 28 / 62
+state space 4506
+Iteration 29 / 62
+state space 7300
+Iteration 30 / 62
+state space 15879
+Trimming state
+threshold dam: 1173
+Iteration 31 / 62
+state space 28354
+Trimming state
+threshold dam: 1153
+Iteration 32 / 62
+state space 38637
+Trimming state
+threshold dam: 1149
+Iteration 33 / 62
+state space 45362
+Trimming state
+threshold dam: 1152
+Iteration 34 / 62
+state space 50272
+Trimming state
+threshold dam: 1161
+Iteration 35 / 62
+state space 52140
+Trimming state
+threshold dam: 1176
+Iteration 36 / 62
+state space 51297
+Trimming state
+threshold dam: 1196
+Iteration 37 / 62
+state space 47739
+Trimming state
+threshold dam: 1220
+Iteration 38 / 62
+state space 42801
+Trimming state
+threshold dam: 1247
+Iteration 39 / 62
+state space 37799
+Trimming state
+threshold dam: 1275
+Iteration 40 / 62
+state space 33371
+Trimming state
+threshold dam: 1299
+Iteration 41 / 62
+state space 29852
+Trimming state
+threshold dam: 1319
+Iteration 42 / 62
+state space 27596
+Trimming state
+threshold dam: 1340
+Iteration 43 / 62
+state space 25576
+Trimming state
+threshold dam: 1363
+Iteration 44 / 62
+state space 22644
+Trimming state
+threshold dam: 1385
+Iteration 45 / 62
+state space 19097
+Trimming state
+threshold dam: 1408
+Iteration 46 / 62
+state space 16482
+Trimming state
+threshold dam: 1432
+Iteration 47 / 62
+state space 15454
+Trimming state
+threshold dam: 1457
+Iteration 48 / 62
+state space 16315
+Trimming state
+threshold dam: 1480
+Iteration 49 / 62
+state space 17644
+Trimming state
+threshold dam: 1499
+Iteration 50 / 62
+state space 17816
+Trimming state
+threshold dam: 1518
+Iteration 51 / 62
+state space 17333
+Trimming state
+threshold dam: 1535
+Iteration 52 / 62
+state space 15839
+Trimming state
+threshold dam: 1552
+Iteration 53 / 62
+state space 14615
+Trimming state
+threshold dam: 1569
+Iteration 54 / 62
+state space 13197
+Trimming state
+threshold dam: 1589
+Iteration 55 / 62
+state space 11296
+Trimming state
+threshold dam: 1614
+Iteration 56 / 62
+state space 8923
+Trimming state
+threshold dam: 1662
+Iteration 57 / 62
+state space 6459
+Iteration 58 / 62
+state space 3317
+Iteration 59 / 62
+state space 1058
+Iteration 60 / 62
+state space 204
+Iteration 61 / 62
+state space 22
+Iteration 62 / 62
+state space 2
+hp 735
+total_dam 1479
+route [22, 13, 21, 8, 4, 38, 1, 34, 60, 58, 41, 5, 16, 47, 49, 55, 20, 40, 28, 35, 9, 26, 57, 54, 27, 25, 3, 2, 14, 18, 45, 11, 0, 12, 23, 39, 32, 46, 50, 43, 30, 10, 37, 59, 36, 51, 17, 24, 61, 6, 42, 31, 15, 7, 56, 53, 48, 33, 29, 52, 19, 44]
+Strong search with feedback, prepare feedback
+22 [(6, 9, u'fux10')]
+13 [(4, 10, u'fux10'), (3, 10, u'fux10')]
+21 [(6, 6, u'fux10'), (6, 5, u'fux10'), (5, 3, u'fux10')]
+8 [(3, 5, u'fux10')]
+4 [(2, 7, u'fux11'), (6, 1, u'fux11'), (5, 1, u'fux11'), (5, 3, u'fux11')]
+38 [(9, 6, u'fux10'), (10, 3, u'fux10')]
+1 [(1, 12, u'fux11'), (2, 9, u'fux11'), (3, 9, u'fux11')]
+34 [(8, 13, u'fux10'), (13, 10, u'fux10'), (12, 9, u'fux10')]
+60 [(13, 6, u'fux10')]
+58 [(13, 4, u'fux10')]
+41 [(9, 10, u'fux11'), (11, 10, u'fux11'), (12, 5, u'fux11')]
+5 [(2, 9, u'fux5')]
+16 [(5, 9, u'fux5')]
+47 [(10, 11, u'fux5')]
+49 [(11, 12, u'fux12')]
+55 [(12, 9, u'fux12'), (13, 9, u'fux12'), (10, 5, u'fux12'), (6, 4, u'fux12')]
+20 [(6, 3, u'fux12'), (6, 2, u'fux12')]
+40 [(9, 9, u'fux12')]
+28 [(8, 1, u'fux11')]
+35 [(8, 13, u'fux12')]
+9 [(3, 12, u'fux13')]
+26 [(7, 9, u'fux13')]
+57 [(13, 3, u'fux11')]
+54 [(12, 7, u'fux14')]
+27 [(7, 12, u'fux12')]
+25 [(7, 5, u'fux5')]
+3 [(2, 4, u'fux13'), (2, 3, u'fux13')]
+2 [(2, 3, u'fux12'), (2, 2, u'fux12')]
+14 [(4, 12, u'fux14'), (4, 11, u'fux14')]
+18 [(6, 1, u'fux14')]
+45 [(10, 9, u'fux13')]
+11 [(4, 5, u'fux14'), (1, 7, u'fux14'), (1, 2, u'fux14')]
+0 [(1, 3, u'fux15'), (1, 6, u'fux15')]
+12 [(4, 9, u'fux15')]
+23 [(6, 9, u'fux15')]
+39 [(9, 6, u'fux15')]
+32 [(8, 10, u'fux15')]
+46 [(10, 11, u'fux15'), (10, 12, u'fux15')]
+50 [(11, 13, u'fux15'), (12, 13, u'fux15')]
+43 [(10, 6, u'fux14'), (10, 5, u'fux14')]
+30 [(8, 4, u'fux15')]
+10 [(4, 1, u'fux16')]
+37 [(9, 1, u'fux16')]
+59 [(13, 5, u'fux16')]
+36 [(9, 1, u'fux15'), (11, 1, u'fux15'), (13, 1, u'fux15')]
+51 [(11, 13, u'fux16'), (9, 13, u'fux16')]
+17 [(5, 13, u'fux10'), (3, 13, u'fux10')]
+24 [(6, 13, u'fux16'), (5, 13, u'fux16')]
+61 [(13, 8, u'fux15'), (12, 7, u'fux15')]
+6 [(2, 11, u'fux16'), (2, 7, u'fux16')]
+42 [(9, 13, u'fux15'), (7, 13, u'fux15')]
+31 [(8, 9, u'fux16'), (8, 8, u'fux16')]
+15 [(4, 12, u'fux15'), (3, 13, u'fux15')]
+7 [(2, 13, u'fux14')]
+56 [(12, 13, u'fux13')]
+53 [(12, 7, u'fux13'), (8, 5, u'fux13')]
+48 [(11, 1, u'fux13'), (12, 1, u'fux13')]
+33 [(8, 11, u'fux17'), (12, 13, u'fux17')]
+29 [(8, 1, u'fux13'), (7, 1, u'fux13')]
+52 [(12, 4, u'fux12'), (12, 3, u'fux12'), (12, 2, u'fux12')]
+19 [(6, 2, u'fux15')]
+44 [(10, 8, u'fux17'), (10, 6, u'fux17'), (7, 7, u'fux17'), (7, 6, u'fux17'), (7, 3, u'fux17'), (7, 2, u'fux17'), (13, 2, u'fux17'), (7, 12, u'fux17')]
+Strong search ...
+Iteration 1 / 62
+state space 1
+Iteration 2 / 62
+state space 7
+Iteration 3 / 62
+state space 26
+Iteration 4 / 62
+state space 70
+Iteration 5 / 62
+state space 154
+Iteration 6 / 62
+state space 300
+Iteration 7 / 62
+state space 551
+Iteration 8 / 62
+state space 1001
+Iteration 9 / 62
+state space 1674
+Iteration 10 / 62
+state space 2508
+Iteration 11 / 62
+state space 3376
+Iteration 12 / 62
+state space 4004
+Iteration 13 / 62
+state space 4079
+Iteration 14 / 62
+state space 3678
+Iteration 15 / 62
+state space 3059
+Iteration 16 / 62
+state space 2438
+Iteration 17 / 62
+state space 1924
+Iteration 18 / 62
+state space 1557
+Iteration 19 / 62
+state space 1452
+Iteration 20 / 62
+state space 1628
+Iteration 21 / 62
+state space 1988
+Iteration 22 / 62
+state space 2491
+Iteration 23 / 62
+state space 3170
+Iteration 24 / 62
+state space 3898
+Iteration 25 / 62
+state space 4415
+Iteration 26 / 62
+state space 4445
+Iteration 27 / 62
+state space 4184
+Iteration 28 / 62
+state space 4506
+Iteration 29 / 62
+state space 7300
+Iteration 30 / 62
+state space 15879
+Iteration 31 / 62
+state space 35514
+Iteration 32 / 62
+state space 72290
+Iteration 33 / 62
+state space 131464
+Iteration 34 / 62
+state space 213737
+Iteration 35 / 62
+state space 310947
+Iteration 36 / 62
+state space 405624
+Iteration 37 / 62
+state space 476202
+Iteration 38 / 62
+state space 506943
+Iteration 39 / 62
+state space 495035
+Iteration 40 / 62
+state space 447201
+Iteration 41 / 62
+state space 374392
+Iteration 42 / 62
+state space 290132
+Iteration 43 / 62
+state space 207782
+Iteration 44 / 62
+state space 138142
+Iteration 45 / 62
+state space 85750
+Iteration 46 / 62
+state space 49549
+Iteration 47 / 62
+state space 26637
+Iteration 48 / 62
+state space 13317
+Iteration 49 / 62
+state space 6074
+Iteration 50 / 62
+state space 2932
+Iteration 51 / 62
+state space 1374
+Iteration 52 / 62
+state space 671
+Iteration 53 / 62
+state space 342
+Iteration 54 / 62
+state space 152
+Iteration 55 / 62
+state space 88
+Iteration 56 / 62
+state space 52
+Iteration 57 / 62
+state space 36
+Iteration 58 / 62
+state space 24
+Iteration 59 / 62
+state space 19
+Iteration 60 / 62
+state space 11
+Iteration 61 / 62
+state space 3
+Iteration 62 / 62
+state space 1
+hp 735
+route [22, 13, 21, 8, 4, 38, 1, 34, 60, 58, 41, 5, 16, 47, 49, 55, 20, 40, 28, 35, 9, 26, 57, 54, 27, 25, 3, 2, 14, 18, 11, 45, 0, 12, 23, 32, 39, 46, 50, 43, 30, 10, 17, 37, 36, 59, 51, 24, 61, 6, 42, 31, 15, 7, 56, 53, 48, 33, 29, 52, 19, 44]
