@@ -342,7 +342,7 @@ search_state = {frozenset(): (init_state, init_avail_set, set(), [])}
 for i in range(len(keyed_std_form)):
     print 'Iteration', i+1, '/', len(keyed_std_form)
     search_state, imprecise = propagate(
-        search_state, keyed_std_form, 262144, feed_back=feed_back, max_totaldam=max_totaldam)
+        search_state, keyed_std_form, 1048576, feed_back=feed_back, max_totaldam=max_totaldam)
     # print 'state', search_state
 
 
