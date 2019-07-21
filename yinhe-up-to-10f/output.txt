@@ -1,200 +1,759 @@
+pretrim
+order hunting: Iteration 1 / 62
+state space 1
+order hunting: Iteration 2 / 62
+state space 7
+order hunting: Iteration 3 / 62
+state space 26
+order hunting: Iteration 4 / 62
+state space 70
+order hunting: Iteration 5 / 62
+state space 154
+order hunting: Iteration 6 / 62
+state space 275
+order hunting: Iteration 7 / 62
+state space 404
+order hunting: Iteration 8 / 62
+state space 508
+order hunting: Iteration 9 / 62
+state space 550
+order hunting: Iteration 10 / 62
+state space 625
+order hunting: Iteration 11 / 62
+state space 845
+order hunting: Iteration 12 / 62
+state space 1202
+order hunting: Iteration 13 / 62
+state space 1552
+order hunting: Iteration 14 / 62
+state space 1706
+order hunting: Iteration 15 / 62
+state space 1635
+order hunting: Iteration 16 / 62
+state space 1417
+order hunting: Iteration 17 / 62
+state space 1177
+order hunting: Iteration 18 / 62
+state space 966
+order hunting: Iteration 19 / 62
+state space 866
+order hunting: Iteration 20 / 62
+state space 873
+order hunting: Iteration 21 / 62
+state space 965
+order hunting: Iteration 22 / 62
+state space 1087
+order hunting: Iteration 23 / 62
+state space 1228
+order hunting: Iteration 24 / 62
+state space 1357
+order hunting: Iteration 25 / 62
+state space 1480
+order hunting: Iteration 26 / 62
+state space 1459
+order hunting: Iteration 27 / 62
+state space 1427
+order hunting: Iteration 28 / 62
+state space 1478
+order hunting: Iteration 29 / 62
+state space 2018
+order hunting: Iteration 30 / 62
+state space 3724
+order hunting: Iteration 31 / 62
+state space 7511
+order hunting: Iteration 32 / 62
+state space 14370
+Trimming state
+threshold dam: 1229
+we know 760 constraints now
+mob (9, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 6, u'fux10') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 493, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (7, 9, u'fux13') best abil {'yk': 15, 'mf': 10, 'df': 6, 'hp': 1113, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 7, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (9, 13, u'fux16') best abil {'yk': 31, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 10, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 5, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux5') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 428, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 13, u'fux16') best abil {'yk': 32, 'mf': 18, 'df': 17, 'hp': 1983, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 1, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 5, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 11, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 9, u'fux13') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 3, u'fux15') best abil {'yk': 24, 'mf': 18, 'df': 13, 'hp': 1528, 'bk': 3, 'ik': 1, 'at': 21, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 11, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 21, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (11, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux15') best abil {'yk': 25, 'mf': 18, 'df': 15, 'hp': 1708, 'bk': 3, 'ik': 1, 'at': 24, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 9, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 1, u'fux13') best abil {'yk': 36, 'mf': 14, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 2343, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 5, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 20, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 0, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (1, 12, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 1, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 10, u'fux10') best abil {'yk': 33, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 4, u'fux15') best abil {'yk': 29, 'mf': 18, 'df': 15, 'hp': 1828, 'bk': 3, 'ik': 1, 'at': 25, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 13, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 7, u'fux14') best abil {'yk': 24, 'mf': 18, 'df': 13, 'hp': 1528, 'bk': 3, 'ik': 1, 'at': 21, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 1, u'fux11') best abil {'yk': 16, 'mf': 10, 'df': 6, 'hp': 1313, 'bk': 3, 'ik': 0, 'at': 18, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (5, 9, u'fux5') best abil {'yk': 12, 'mf': 10, 'df': 4, 'hp': 788, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 9, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 2, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3303, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 12, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 3, u'fux11') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux10') best abil {'yk': 32, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 6, u'fux10') best abil {'yk': 11, 'mf': 10, 'df': 5, 'hp': 998, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 2, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 4, u'fux10') best abil {'yk': 34, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 1, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 9, u'fux5') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 11, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 3, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 5, u'fux16') best abil {'yk': 29, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 9, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 2, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3063, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 5, u'fux5') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 3913, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux10') best abil {'yk': 3, 'mf': 4, 'df': 4, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 5, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 12, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 5, 'hp': 1198, 'bk': 3, 'ik': 0, 'at': 14, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 1, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (3, 12, u'fux13') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 9, u'fux12') best abil {'yk': 32, 'mf': 18, 'df': 21, 'hp': 3953, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 10, u'fux15') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3933, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 5, u'fux14') best abil {'yk': 24, 'mf': 18, 'df': 13, 'hp': 1528, 'bk': 3, 'ik': 0, 'at': 21, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 1, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 29, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 5, u'fux10') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux13') best abil {'yk': 34, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
 Weak search
 Iteration 1 / 62
 state space 1
 Iteration 2 / 62
-state space 7
+state space 2
 Iteration 3 / 62
-state space 26
+state space 3
 Iteration 4 / 62
-state space 70
+state space 3
 Iteration 5 / 62
-state space 154
+state space 4
 Iteration 6 / 62
-state space 300
+state space 4
 Iteration 7 / 62
-state space 551
+state space 5
 Iteration 8 / 62
-state space 1001
+state space 5
 Iteration 9 / 62
-state space 1674
+state space 6
 Iteration 10 / 62
-state space 2508
+state space 6
 Iteration 11 / 62
-state space 3376
+state space 7
 Iteration 12 / 62
-state space 4004
+state space 12
 Iteration 13 / 62
-state space 4079
+state space 25
 Iteration 14 / 62
-state space 3678
+state space 46
 Iteration 15 / 62
-state space 3059
+state space 69
 Iteration 16 / 62
-state space 2438
+state space 84
 Iteration 17 / 62
-state space 1924
+state space 87
 Iteration 18 / 62
-state space 1557
+state space 97
 Iteration 19 / 62
-state space 1452
+state space 130
 Iteration 20 / 62
-state space 1628
+state space 167
 Iteration 21 / 62
-state space 1988
+state space 240
 Iteration 22 / 62
-state space 2491
+state space 363
 Iteration 23 / 62
-state space 3170
+state space 530
 Iteration 24 / 62
-state space 3898
+state space 789
 Iteration 25 / 62
-state space 4415
+state space 1108
 Iteration 26 / 62
-state space 4445
+state space 1296
 Iteration 27 / 62
-state space 4184
+state space 1374
 Iteration 28 / 62
-state space 4506
+state space 1468
 Iteration 29 / 62
-state space 7300
+state space 2017
 Iteration 30 / 62
-state space 15879
-Trimming state
-threshold dam: 1173
+state space 3723
 Iteration 31 / 62
-state space 28354
-Trimming state
-threshold dam: 1153
+state space 7508
 Iteration 32 / 62
-state space 38637
+state space 14375
 Trimming state
-threshold dam: 1149
+threshold dam: 962
 Iteration 33 / 62
-state space 45362
+state space 19070
+Trimming state
+threshold dam: 945
+Iteration 34 / 62
+state space 22050
+Trimming state
+threshold dam: 943
+Iteration 35 / 62
+state space 25676
+Trimming state
+threshold dam: 950
+Iteration 36 / 62
+state space 29182
+Trimming state
+threshold dam: 963
+Iteration 37 / 62
+state space 31044
+Trimming state
+threshold dam: 980
+Iteration 38 / 62
+state space 29557
+Trimming state
+threshold dam: 1002
+Iteration 39 / 62
+state space 27247
+Trimming state
+threshold dam: 1026
+Iteration 40 / 62
+state space 24692
+Trimming state
+threshold dam: 1049
+Iteration 41 / 62
+state space 22712
+Trimming state
+threshold dam: 1070
+Iteration 42 / 62
+state space 20685
+Trimming state
+threshold dam: 1092
+Iteration 43 / 62
+state space 18722
+Trimming state
+threshold dam: 1112
+Iteration 44 / 62
+state space 17231
+Trimming state
+threshold dam: 1132
+Iteration 45 / 62
+state space 15934
 Trimming state
 threshold dam: 1152
-Iteration 34 / 62
-state space 50272
-Trimming state
-threshold dam: 1161
-Iteration 35 / 62
-state space 52140
-Trimming state
-threshold dam: 1176
-Iteration 36 / 62
-state space 51297
-Trimming state
-threshold dam: 1196
-Iteration 37 / 62
-state space 47739
-Trimming state
-threshold dam: 1220
-Iteration 38 / 62
-state space 42801
-Trimming state
-threshold dam: 1247
-Iteration 39 / 62
-state space 37799
-Trimming state
-threshold dam: 1275
-Iteration 40 / 62
-state space 33371
-Trimming state
-threshold dam: 1299
-Iteration 41 / 62
-state space 29852
-Trimming state
-threshold dam: 1319
-Iteration 42 / 62
-state space 27596
-Trimming state
-threshold dam: 1340
-Iteration 43 / 62
-state space 25576
-Trimming state
-threshold dam: 1363
-Iteration 44 / 62
-state space 22644
-Trimming state
-threshold dam: 1385
-Iteration 45 / 62
-state space 19097
-Trimming state
-threshold dam: 1408
 Iteration 46 / 62
-state space 16482
+state space 15100
 Trimming state
-threshold dam: 1432
+threshold dam: 1174
 Iteration 47 / 62
-state space 15454
+state space 15106
 Trimming state
-threshold dam: 1457
+threshold dam: 1197
 Iteration 48 / 62
-state space 16315
+state space 16076
 Trimming state
-threshold dam: 1480
+threshold dam: 1218
 Iteration 49 / 62
-state space 17644
+state space 17081
 Trimming state
-threshold dam: 1499
+threshold dam: 1238
 Iteration 50 / 62
-state space 17816
+state space 17296
 Trimming state
-threshold dam: 1518
+threshold dam: 1256
 Iteration 51 / 62
-state space 17333
+state space 16888
 Trimming state
-threshold dam: 1535
+threshold dam: 1273
 Iteration 52 / 62
-state space 15839
+state space 15824
 Trimming state
-threshold dam: 1552
+threshold dam: 1291
 Iteration 53 / 62
-state space 14615
+state space 14272
 Trimming state
-threshold dam: 1569
+threshold dam: 1313
 Iteration 54 / 62
-state space 13197
+state space 12673
 Trimming state
-threshold dam: 1589
+threshold dam: 1336
 Iteration 55 / 62
-state space 11296
+state space 11181
 Trimming state
-threshold dam: 1614
+threshold dam: 1364
 Iteration 56 / 62
-state space 8923
+state space 8916
 Trimming state
-threshold dam: 1662
+threshold dam: 1417
 Iteration 57 / 62
-state space 6459
+state space 6265
 Iteration 58 / 62
-state space 3317
+state space 3007
 Iteration 59 / 62
-state space 1058
+state space 897
 Iteration 60 / 62
-state space 204
+state space 171
 Iteration 61 / 62
-state space 22
+state space 19
 Iteration 62 / 62
 state space 2
 hp 735
-total_dam 1479
-route [22, 13, 21, 8, 4, 38, 1, 34, 60, 58, 41, 5, 16, 47, 49, 55, 20, 40, 28, 35, 9, 26, 57, 54, 27, 25, 3, 2, 14, 18, 45, 11, 0, 12, 23, 39, 32, 46, 50, 43, 30, 10, 37, 59, 36, 51, 17, 24, 61, 6, 42, 31, 15, 7, 56, 53, 48, 33, 29, 52, 19, 44]
+total_dam 1212
+route [22, 13, 21, 8, 4, 47, 60, 38, 1, 34, 58, 41, 5, 16, 49, 55, 20, 40, 28, 35, 9, 26, 57, 54, 27, 25, 2, 3, 14, 18, 45, 11, 0, 12, 23, 39, 32, 46, 50, 43, 30, 10, 37, 59, 36, 51, 17, 24, 61, 6, 42, 31, 15, 7, 56, 53, 48, 33, 29, 52, 19, 44]
+============================================================ refine lower bound of damage, ITER 8192
+total_dam 1212
+order hunting: Iteration 1 / 62
+state space 1
+order hunting: Iteration 2 / 62
+state space 2
+order hunting: Iteration 3 / 62
+state space 3
+order hunting: Iteration 4 / 62
+state space 3
+order hunting: Iteration 5 / 62
+state space 4
+order hunting: Iteration 6 / 62
+state space 4
+order hunting: Iteration 7 / 62
+state space 5
+order hunting: Iteration 8 / 62
+state space 5
+order hunting: Iteration 9 / 62
+state space 6
+order hunting: Iteration 10 / 62
+state space 6
+order hunting: Iteration 11 / 62
+state space 7
+order hunting: Iteration 12 / 62
+state space 12
+order hunting: Iteration 13 / 62
+state space 25
+order hunting: Iteration 14 / 62
+state space 46
+order hunting: Iteration 15 / 62
+state space 69
+order hunting: Iteration 16 / 62
+state space 84
+order hunting: Iteration 17 / 62
+state space 87
+order hunting: Iteration 18 / 62
+state space 97
+order hunting: Iteration 19 / 62
+state space 130
+order hunting: Iteration 20 / 62
+state space 167
+order hunting: Iteration 21 / 62
+state space 240
+order hunting: Iteration 22 / 62
+state space 363
+order hunting: Iteration 23 / 62
+state space 530
+order hunting: Iteration 24 / 62
+state space 789
+order hunting: Iteration 25 / 62
+state space 1108
+order hunting: Iteration 26 / 62
+state space 1296
+order hunting: Iteration 27 / 62
+state space 1374
+order hunting: Iteration 28 / 62
+state space 1468
+order hunting: Iteration 29 / 62
+state space 2017
+order hunting: Iteration 30 / 62
+state space 3723
+order hunting: Iteration 31 / 62
+state space 7508
+order hunting: Iteration 32 / 62
+state space 14375
+Trimming state
+threshold dam: 962
+we know 760 constraints now
+mob (9, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 6, u'fux10') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 493, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (7, 9, u'fux13') best abil {'yk': 15, 'mf': 10, 'df': 6, 'hp': 1113, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 7, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (9, 13, u'fux16') best abil {'yk': 31, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 10, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 5, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux5') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 428, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 13, u'fux16') best abil {'yk': 32, 'mf': 18, 'df': 17, 'hp': 1983, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 1, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 5, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 11, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 9, u'fux13') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 3, u'fux15') best abil {'yk': 24, 'mf': 18, 'df': 13, 'hp': 1528, 'bk': 3, 'ik': 1, 'at': 21, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 11, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 21, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (11, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux15') best abil {'yk': 25, 'mf': 18, 'df': 15, 'hp': 1708, 'bk': 3, 'ik': 1, 'at': 24, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 9, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 1, u'fux13') best abil {'yk': 36, 'mf': 14, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 2343, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 5, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 20, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 0, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (1, 12, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 1, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 10, u'fux10') best abil {'yk': 33, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 4, u'fux15') best abil {'yk': 29, 'mf': 18, 'df': 15, 'hp': 1828, 'bk': 3, 'ik': 1, 'at': 25, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 13, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 7, u'fux14') best abil {'yk': 24, 'mf': 18, 'df': 13, 'hp': 1528, 'bk': 3, 'ik': 1, 'at': 21, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 1, u'fux11') best abil {'yk': 16, 'mf': 10, 'df': 6, 'hp': 1313, 'bk': 3, 'ik': 0, 'at': 18, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (5, 9, u'fux5') best abil {'yk': 12, 'mf': 10, 'df': 4, 'hp': 788, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 9, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 2, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3303, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 12, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 3, u'fux11') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux10') best abil {'yk': 32, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 6, u'fux10') best abil {'yk': 11, 'mf': 10, 'df': 5, 'hp': 998, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 2, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 4, u'fux10') best abil {'yk': 34, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 1, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 9, u'fux5') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 11, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 3, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 5, u'fux16') best abil {'yk': 29, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 9, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 2, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3063, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 5, u'fux5') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 3913, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux10') best abil {'yk': 3, 'mf': 4, 'df': 4, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 5, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 12, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 5, 'hp': 1198, 'bk': 3, 'ik': 0, 'at': 14, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 1, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (3, 12, u'fux13') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 9, u'fux12') best abil {'yk': 32, 'mf': 18, 'df': 21, 'hp': 3953, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 10, u'fux15') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3933, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 5, u'fux14') best abil {'yk': 24, 'mf': 18, 'df': 13, 'hp': 1528, 'bk': 3, 'ik': 0, 'at': 21, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 1, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 29, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 5, u'fux10') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux13') best abil {'yk': 34, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+============================================================ refine lower bound of damage, ITER 32768
+total_dam 1212
+order hunting: Iteration 1 / 62
+state space 1
+order hunting: Iteration 2 / 62
+state space 2
+order hunting: Iteration 3 / 62
+state space 3
+order hunting: Iteration 4 / 62
+state space 3
+order hunting: Iteration 5 / 62
+state space 4
+order hunting: Iteration 6 / 62
+state space 4
+order hunting: Iteration 7 / 62
+state space 5
+order hunting: Iteration 8 / 62
+state space 5
+order hunting: Iteration 9 / 62
+state space 6
+order hunting: Iteration 10 / 62
+state space 6
+order hunting: Iteration 11 / 62
+state space 7
+order hunting: Iteration 12 / 62
+state space 12
+order hunting: Iteration 13 / 62
+state space 25
+order hunting: Iteration 14 / 62
+state space 46
+order hunting: Iteration 15 / 62
+state space 69
+order hunting: Iteration 16 / 62
+state space 84
+order hunting: Iteration 17 / 62
+state space 87
+order hunting: Iteration 18 / 62
+state space 97
+order hunting: Iteration 19 / 62
+state space 130
+order hunting: Iteration 20 / 62
+state space 167
+order hunting: Iteration 21 / 62
+state space 240
+order hunting: Iteration 22 / 62
+state space 363
+order hunting: Iteration 23 / 62
+state space 530
+order hunting: Iteration 24 / 62
+state space 789
+order hunting: Iteration 25 / 62
+state space 1108
+order hunting: Iteration 26 / 62
+state space 1296
+order hunting: Iteration 27 / 62
+state space 1374
+order hunting: Iteration 28 / 62
+state space 1468
+order hunting: Iteration 29 / 62
+state space 2017
+order hunting: Iteration 30 / 62
+state space 3723
+order hunting: Iteration 31 / 62
+state space 7508
+order hunting: Iteration 32 / 62
+state space 14375
+order hunting: Iteration 33 / 62
+state space 25120
+order hunting: Iteration 34 / 62
+state space 39397
+Trimming state
+threshold dam: 1064
+we know 787 constraints now
+mob (9, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 6, u'fux10') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 493, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (7, 9, u'fux13') best abil {'yk': 15, 'mf': 10, 'df': 6, 'hp': 1113, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 7, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (9, 13, u'fux16') best abil {'yk': 31, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 10, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 5, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux5') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 428, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 13, u'fux16') best abil {'yk': 32, 'mf': 18, 'df': 17, 'hp': 1983, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 1, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 5, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 11, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 9, u'fux13') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 3, u'fux15') best abil {'yk': 24, 'mf': 18, 'df': 13, 'hp': 1528, 'bk': 3, 'ik': 1, 'at': 21, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 11, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 21, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (11, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux15') best abil {'yk': 25, 'mf': 18, 'df': 15, 'hp': 1708, 'bk': 3, 'ik': 1, 'at': 24, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 9, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 1, u'fux13') best abil {'yk': 36, 'mf': 14, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 2343, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 5, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 20, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 0, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (1, 12, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 1, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 10, u'fux10') best abil {'yk': 33, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 4, u'fux15') best abil {'yk': 29, 'mf': 18, 'df': 15, 'hp': 1828, 'bk': 3, 'ik': 1, 'at': 25, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 13, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 7, u'fux14') best abil {'yk': 21, 'mf': 12, 'df': 11, 'hp': 1338, 'bk': 3, 'ik': 1, 'at': 20, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 1, u'fux11') best abil {'yk': 16, 'mf': 10, 'df': 6, 'hp': 1313, 'bk': 3, 'ik': 0, 'at': 18, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (5, 9, u'fux5') best abil {'yk': 12, 'mf': 10, 'df': 4, 'hp': 788, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 9, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 2, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3303, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 12, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 3, u'fux11') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux10') best abil {'yk': 32, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 6, u'fux10') best abil {'yk': 11, 'mf': 10, 'df': 5, 'hp': 998, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 2, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 4, u'fux10') best abil {'yk': 34, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 1, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 9, u'fux5') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 11, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 3, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 5, u'fux16') best abil {'yk': 29, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 9, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 2, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3063, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 5, u'fux5') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 3913, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux10') best abil {'yk': 3, 'mf': 4, 'df': 4, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 5, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 12, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 5, 'hp': 1198, 'bk': 3, 'ik': 0, 'at': 14, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 1, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (3, 12, u'fux13') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 9, u'fux12') best abil {'yk': 32, 'mf': 18, 'df': 21, 'hp': 3953, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 10, u'fux15') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3933, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 5, u'fux14') best abil {'yk': 21, 'mf': 12, 'df': 11, 'hp': 1338, 'bk': 3, 'ik': 0, 'at': 20, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 1, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 29, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 5, u'fux10') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux13') best abil {'yk': 34, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+============================================================ refine lower bound of damage, ITER 65536
+total_dam 1196
+order hunting: Iteration 1 / 62
+state space 1
+order hunting: Iteration 2 / 62
+state space 2
+order hunting: Iteration 3 / 62
+state space 3
+order hunting: Iteration 4 / 62
+state space 3
+order hunting: Iteration 5 / 62
+state space 4
+order hunting: Iteration 6 / 62
+state space 4
+order hunting: Iteration 7 / 62
+state space 5
+order hunting: Iteration 8 / 62
+state space 5
+order hunting: Iteration 9 / 62
+state space 6
+order hunting: Iteration 10 / 62
+state space 6
+order hunting: Iteration 11 / 62
+state space 7
+order hunting: Iteration 12 / 62
+state space 12
+order hunting: Iteration 13 / 62
+state space 25
+order hunting: Iteration 14 / 62
+state space 46
+order hunting: Iteration 15 / 62
+state space 69
+order hunting: Iteration 16 / 62
+state space 84
+order hunting: Iteration 17 / 62
+state space 87
+order hunting: Iteration 18 / 62
+state space 97
+order hunting: Iteration 19 / 62
+state space 130
+order hunting: Iteration 20 / 62
+state space 167
+order hunting: Iteration 21 / 62
+state space 240
+order hunting: Iteration 22 / 62
+state space 363
+order hunting: Iteration 23 / 62
+state space 526
+order hunting: Iteration 24 / 62
+state space 772
+order hunting: Iteration 25 / 62
+state space 1075
+order hunting: Iteration 26 / 62
+state space 1253
+order hunting: Iteration 27 / 62
+state space 1328
+order hunting: Iteration 28 / 62
+state space 1421
+order hunting: Iteration 29 / 62
+state space 1977
+order hunting: Iteration 30 / 62
+state space 3699
+order hunting: Iteration 31 / 62
+state space 7500
+order hunting: Iteration 32 / 62
+state space 14375
+order hunting: Iteration 33 / 62
+state space 25120
+order hunting: Iteration 34 / 62
+state space 39397
+order hunting: Iteration 35 / 62
+state space 55818
+order hunting: Iteration 36 / 62
+state space 71951
+Trimming state
+threshold dam: 1116
+we know 837 constraints now
+mob (9, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 6, u'fux10') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 493, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (7, 9, u'fux13') best abil {'yk': 15, 'mf': 10, 'df': 6, 'hp': 1113, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 7, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (9, 13, u'fux16') best abil {'yk': 31, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 10, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 5, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 11, u'fux5') best abil {'yk': 8, 'mf': 8, 'df': 4, 'hp': 428, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 13, u'fux16') best abil {'yk': 32, 'mf': 18, 'df': 17, 'hp': 1983, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 1, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 5, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 11, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 9, u'fux13') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 3, u'fux15') best abil {'yk': 21, 'mf': 12, 'df': 11, 'hp': 1338, 'bk': 3, 'ik': 1, 'at': 20, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 11, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 21, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (11, 10, u'fux11') best abil {'yk': 10, 'mf': 6, 'df': 4, 'hp': 603, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux15') best abil {'yk': 25, 'mf': 18, 'df': 15, 'hp': 1708, 'bk': 3, 'ik': 1, 'at': 24, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 9, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 1, u'fux13') best abil {'yk': 36, 'mf': 14, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (10, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 2343, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (10, 5, u'fux14') best abil {'yk': 36, 'mf': 18, 'df': 20, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 0, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 13, u'fux10') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 653, 'bk': 2, 'ik': 0, 'at': 8, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (1, 12, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 1, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 1, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3998, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 10, u'fux10') best abil {'yk': 33, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 4, u'fux15') best abil {'yk': 29, 'mf': 18, 'df': 15, 'hp': 1828, 'bk': 3, 'ik': 1, 'at': 25, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 13, u'fux14') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (1, 7, u'fux14') best abil {'yk': 21, 'mf': 12, 'df': 11, 'hp': 1338, 'bk': 3, 'ik': 1, 'at': 20, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 1, u'fux11') best abil {'yk': 16, 'mf': 10, 'df': 6, 'hp': 1313, 'bk': 3, 'ik': 0, 'at': 18, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (5, 9, u'fux5') best abil {'yk': 12, 'mf': 10, 'df': 4, 'hp': 788, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (8, 9, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 2, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3303, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 12, u'fux12') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 3, u'fux11') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 13, u'fux10') best abil {'yk': 32, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (9, 6, u'fux10') best abil {'yk': 11, 'mf': 10, 'df': 5, 'hp': 998, 'bk': 2, 'ik': 0, 'at': 12, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 2, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 4, u'fux10') best abil {'yk': 34, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 1, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3978, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 9, u'fux5') best abil {'yk': 36, 'mf': 16, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (2, 11, u'fux16') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (2, 3, u'fux13') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3958, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (13, 5, u'fux16') best abil {'yk': 29, 'mf': 18, 'df': 16, 'hp': 1918, 'bk': 3, 'ik': 1, 'at': 30, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 9, u'fux11') best abil {'yk': 10, 'mf': 8, 'df': 4, 'hp': 583, 'bk': 2, 'ik': 0, 'at': 7, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 7, u'fux13') best abil {'yk': 35, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 6, u'fux17') best abil {'yk': 34, 'mf': 18, 'df': 18, 'hp': 3063, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (7, 5, u'fux5') best abil {'yk': 36, 'mf': 18, 'df': 22, 'hp': 3913, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 4, u'fux12') best abil {'yk': 34, 'mf': 18, 'df': 22, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (6, 9, u'fux10') best abil {'yk': 3, 'mf': 4, 'df': 4, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 5, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 12, u'fux12') best abil {'yk': 14, 'mf': 10, 'df': 5, 'hp': 1198, 'bk': 3, 'ik': 0, 'at': 14, 'pick': 0, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (6, 2, u'fux12') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (5, 1, u'fux11') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 313, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (3, 12, u'fux13') best abil {'yk': 14, 'mf': 10, 'df': 6, 'hp': 1088, 'bk': 2, 'ik': 0, 'at': 13, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (13, 9, u'fux12') best abil {'yk': 32, 'mf': 18, 'df': 21, 'hp': 3953, 'bk': 3, 'ik': 1, 'at': 32, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (8, 10, u'fux15') best abil {'yk': 35, 'mf': 18, 'df': 22, 'hp': 3933, 'bk': 3, 'ik': 1, 'at': 31, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (4, 5, u'fux14') best abil {'yk': 21, 'mf': 12, 'df': 11, 'hp': 1338, 'bk': 3, 'ik': 0, 'at': 20, 'pick': 1, 'equip_level': 2, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (11, 1, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 29, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux17') best abil {'yk': 35, 'mf': 18, 'df': 23, 'hp': 3903, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux15') best abil {'yk': 36, 'mf': 18, 'df': 23, 'hp': 4023, 'bk': 3, 'ik': 1, 'at': 33, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
+mob (3, 5, u'fux10') best abil {'yk': 4, 'mf': 6, 'df': 3, 'hp': 268, 'bk': 1, 'ik': 0, 'at': 6, 'pick': 0, 'equip_level': 1, 'gk': 0, 'rk': 0, 'total_dam': 0, 'curse': -1}
+mob (12, 13, u'fux13') best abil {'yk': 34, 'mf': 14, 'df': 22, 'hp': 3833, 'bk': 3, 'ik': 1, 'at': 34, 'pick': 1, 'equip_level': 2, 'gk': 2, 'rk': 1, 'total_dam': 0, 'curse': -1}
 Strong search with feedback, prepare feedback
 22 [(6, 9, u'fux10')]
 13 [(4, 10, u'fux10'), (3, 10, u'fux10')]
 21 [(6, 6, u'fux10'), (6, 5, u'fux10'), (5, 3, u'fux10')]
 8 [(3, 5, u'fux10')]
 4 [(2, 7, u'fux11'), (6, 1, u'fux11'), (5, 1, u'fux11'), (5, 3, u'fux11')]
+47 [(10, 11, u'fux5')]
+60 [(13, 6, u'fux10')]
 38 [(9, 6, u'fux10'), (10, 3, u'fux10')]
 1 [(1, 12, u'fux11'), (2, 9, u'fux11'), (3, 9, u'fux11')]
 34 [(8, 13, u'fux10'), (13, 10, u'fux10'), (12, 9, u'fux10')]
-60 [(13, 6, u'fux10')]
 58 [(13, 4, u'fux10')]
 41 [(9, 10, u'fux11'), (11, 10, u'fux11'), (12, 5, u'fux11')]
 5 [(2, 9, u'fux5')]
 16 [(5, 9, u'fux5')]
-47 [(10, 11, u'fux5')]
 49 [(11, 12, u'fux12')]
 55 [(12, 9, u'fux12'), (13, 9, u'fux12'), (10, 5, u'fux12'), (6, 4, u'fux12')]
 20 [(6, 3, u'fux12'), (6, 2, u'fux12')]
@@ -207,8 +766,8 @@ Strong search with feedback, prepare feedback
 54 [(12, 7, u'fux14')]
 27 [(7, 12, u'fux12')]
 25 [(7, 5, u'fux5')]
-3 [(2, 4, u'fux13'), (2, 3, u'fux13')]
 2 [(2, 3, u'fux12'), (2, 2, u'fux12')]
+3 [(2, 4, u'fux13'), (2, 3, u'fux13')]
 14 [(4, 12, u'fux14'), (4, 11, u'fux14')]
 18 [(6, 1, u'fux14')]
 45 [(10, 9, u'fux13')]
@@ -243,130 +802,131 @@ Strong search with feedback, prepare feedback
 52 [(12, 4, u'fux12'), (12, 3, u'fux12'), (12, 2, u'fux12')]
 19 [(6, 2, u'fux15')]
 44 [(10, 8, u'fux17'), (10, 6, u'fux17'), (7, 7, u'fux17'), (7, 6, u'fux17'), (7, 3, u'fux17'), (7, 2, u'fux17'), (13, 2, u'fux17'), (7, 12, u'fux17')]
+dam seq [8, 60, 88, 88, 88, 88, 88, 102, 112, 127, 165, 165, 181, 187, 270, 318, 452, 556, 556, 562, 576, 580, 582, 644, 658, 666, 671, 719, 811, 832, 852, 858, 858, 858, 874, 874, 899, 925, 951, 997, 1007, 1007, 1007, 1017, 1045, 1051, 1067, 1083, 1109, 1127, 1142, 1156, 1156, 1167, 1167, 1174, 1174, 1181, 1181, 1186, 1190, 1190]
 Strong search ...
 Iteration 1 / 62
 state space 1
 Iteration 2 / 62
-state space 7
+state space 2
 Iteration 3 / 62
-state space 26
-Iteration 4 / 62
-state space 70
-Iteration 5 / 62
-state space 154
-Iteration 6 / 62
-state space 300
-Iteration 7 / 62
-state space 551
-Iteration 8 / 62
-state space 1001
-Iteration 9 / 62
-state space 1674
-Iteration 10 / 62
-state space 2508
-Iteration 11 / 62
-state space 3376
-Iteration 12 / 62
-state space 4004
-Iteration 13 / 62
-state space 4079
-Iteration 14 / 62
-state space 3678
-Iteration 15 / 62
-state space 3059
-Iteration 16 / 62
-state space 2438
-Iteration 17 / 62
-state space 1924
-Iteration 18 / 62
-state space 1557
-Iteration 19 / 62
-state space 1452
-Iteration 20 / 62
-state space 1628
-Iteration 21 / 62
-state space 1988
-Iteration 22 / 62
-state space 2491
-Iteration 23 / 62
-state space 3170
-Iteration 24 / 62
-state space 3898
-Iteration 25 / 62
-state space 4415
-Iteration 26 / 62
-state space 4445
-Iteration 27 / 62
-state space 4184
-Iteration 28 / 62
-state space 4506
-Iteration 29 / 62
-state space 7300
-Iteration 30 / 62
-state space 15879
-Iteration 31 / 62
-state space 35514
-Iteration 32 / 62
-state space 72290
-Iteration 33 / 62
-state space 131464
-Iteration 34 / 62
-state space 213737
-Iteration 35 / 62
-state space 310947
-Iteration 36 / 62
-state space 405624
-Iteration 37 / 62
-state space 476202
-Iteration 38 / 62
-state space 506943
-Iteration 39 / 62
-state space 495035
-Iteration 40 / 62
-state space 447201
-Iteration 41 / 62
-state space 374392
-Iteration 42 / 62
-state space 290132
-Iteration 43 / 62
-state space 207782
-Iteration 44 / 62
-state space 138142
-Iteration 45 / 62
-state space 85750
-Iteration 46 / 62
-state space 49549
-Iteration 47 / 62
-state space 26637
-Iteration 48 / 62
-state space 13317
-Iteration 49 / 62
-state space 6074
-Iteration 50 / 62
-state space 2932
-Iteration 51 / 62
-state space 1374
-Iteration 52 / 62
-state space 671
-Iteration 53 / 62
-state space 342
-Iteration 54 / 62
-state space 152
-Iteration 55 / 62
-state space 88
-Iteration 56 / 62
-state space 52
-Iteration 57 / 62
-state space 36
-Iteration 58 / 62
-state space 24
-Iteration 59 / 62
-state space 19
-Iteration 60 / 62
-state space 11
-Iteration 61 / 62
 state space 3
+Iteration 4 / 62
+state space 3
+Iteration 5 / 62
+state space 4
+Iteration 6 / 62
+state space 4
+Iteration 7 / 62
+state space 5
+Iteration 8 / 62
+state space 5
+Iteration 9 / 62
+state space 6
+Iteration 10 / 62
+state space 6
+Iteration 11 / 62
+state space 7
+Iteration 12 / 62
+state space 12
+Iteration 13 / 62
+state space 25
+Iteration 14 / 62
+state space 46
+Iteration 15 / 62
+state space 69
+Iteration 16 / 62
+state space 84
+Iteration 17 / 62
+state space 87
+Iteration 18 / 62
+state space 97
+Iteration 19 / 62
+state space 130
+Iteration 20 / 62
+state space 167
+Iteration 21 / 62
+state space 240
+Iteration 22 / 62
+state space 363
+Iteration 23 / 62
+state space 526
+Iteration 24 / 62
+state space 772
+Iteration 25 / 62
+state space 1075
+Iteration 26 / 62
+state space 1252
+Iteration 27 / 62
+state space 1325
+Iteration 28 / 62
+state space 1419
+Iteration 29 / 62
+state space 1974
+Iteration 30 / 62
+state space 3697
+Iteration 31 / 62
+state space 7499
+Iteration 32 / 62
+state space 14375
+Iteration 33 / 62
+state space 25120
+Iteration 34 / 62
+state space 39397
+Iteration 35 / 62
+state space 55843
+Iteration 36 / 62
+state space 72126
+Iteration 37 / 62
+state space 85196
+Iteration 38 / 62
+state space 92541
+Iteration 39 / 62
+state space 93839
+Iteration 40 / 62
+state space 89670
+Iteration 41 / 62
+state space 80836
+Iteration 42 / 62
+state space 68413
+Iteration 43 / 62
+state space 55551
+Iteration 44 / 62
+state space 44643
+Iteration 45 / 62
+state space 35883
+Iteration 46 / 62
+state space 28337
+Iteration 47 / 62
+state space 20948
+Iteration 48 / 62
+state space 14598
+Iteration 49 / 62
+state space 8560
+Iteration 50 / 62
+state space 4903
+Iteration 51 / 62
+state space 2563
+Iteration 52 / 62
+state space 1497
+Iteration 53 / 62
+state space 825
+Iteration 54 / 62
+state space 475
+Iteration 55 / 62
+state space 284
+Iteration 56 / 62
+state space 178
+Iteration 57 / 62
+state space 135
+Iteration 58 / 62
+state space 103
+Iteration 59 / 62
+state space 62
+Iteration 60 / 62
+state space 29
+Iteration 61 / 62
+state space 9
 Iteration 62 / 62
-state space 1
+state space 2
 hp 735
-route [22, 13, 21, 8, 4, 38, 1, 34, 60, 58, 41, 5, 16, 47, 49, 55, 20, 40, 28, 35, 9, 26, 57, 54, 27, 25, 3, 2, 14, 18, 11, 45, 0, 12, 23, 32, 39, 46, 50, 43, 30, 10, 17, 37, 36, 59, 51, 24, 61, 6, 42, 31, 15, 7, 56, 53, 48, 33, 29, 52, 19, 44]
+route [22, 13, 21, 8, 4, 47, 60, 38, 1, 34, 58, 41, 5, 16, 49, 55, 20, 40, 28, 35, 9, 26, 57, 54, 27, 25, 2, 3, 14, 18, 11, 45, 0, 12, 23, 32, 39, 46, 50, 43, 30, 10, 17, 37, 36, 59, 51, 24, 61, 6, 42, 7, 31, 15, 56, 53, 48, 33, 29, 52, 19, 44]
